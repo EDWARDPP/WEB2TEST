@@ -1,0 +1,125 @@
+.FondoNegro {
+  background-color: black;
+}
+
+p {
+  color: white;
+  font-size: 20px;
+  font-family: monospace;
+}
+
+.Rojo {
+  background-color: red;
+}
+
+.RojoF1{
+  margin: 3px;
+  margin-left: 5px;
+  font-size: 200%;
+  font-family: sans-serif;
+  color: blue;
+}
+
+.AmarilloIzq{
+  background-color: yellow;
+}
+
+.AmarilloIzqF2{
+  margin: 3px;
+  font-size: 200%;
+  font-family: sans-serif;
+  color: red;
+  text-align: right;
+}
+
+.Cafe{
+  background-color: brown;
+}
+
+.CafeF3{
+  margin: 3px;
+  margin-left: 5px;
+  font-size: 200%;
+  font-family: sans-serif;
+  color: blue;
+}
+
+.Azul{
+  background-color: blue;
+}
+
+.AzulF1{
+  margin: 3px;
+  margin-left: 5px;
+  font-size: 200%;
+  font-family: sans-serif;
+  color: white;
+}
+
+.Morado{
+  background-color: violet;
+}
+
+.MoradoF2{
+  margin: 3px;
+  margin-left: 5px;
+  font-size: 200%;
+  font-family: sans-serif;
+  color: black;
+  text-align: right;
+}
+
+.Rosa{
+  background-color: pink;
+}
+
+.RosaF3{
+  margin: 3px;
+  margin-left: 5px;
+  font-size: 200%;
+  font-family: sans-serif;
+  color: black;
+}
+
+.verde{
+  background-color: green;
+  height: 50px;
+}
+
+.verded1{
+  padding-top: 3px;
+  margin-left: 5px;
+  font-size: 200%;
+  font-family: sans-serif;
+  color: black;
+}
+
+.naranja{
+  background-color: orange;
+  margin-top: -32px;
+  height: 50px;
+}
+
+.naranjad2{
+  padding-top: 3px;
+  margin-left: 5px;
+  font-size: 200%;
+  font-family: sans-serif;
+  color: black;
+  text-align: right;
+}
+
+.AzulClaro{
+  background-color: lightblue;
+  margin-top: -32px;
+  height: 50px;
+}
+
+.AzulClarod3{
+  padding-top: 3px;
+  margin-left: 5px;
+  font-size: 200%;
+  font-family: sans-serif;
+  color: black;
+  
+}
